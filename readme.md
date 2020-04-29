@@ -1,0 +1,1 @@
+# Helpful / practical / interesting functions in python!
